@@ -1,0 +1,16 @@
+{
+  "name": "react-svgdom-loader",
+  "description": "Import SVG as ReactDOM element",
+  "keywords": [
+    "webpack",
+    "react",
+    "svg"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Poletaev <zenwalker2@gmail.com>",
+  "license": "MIT"
+}
