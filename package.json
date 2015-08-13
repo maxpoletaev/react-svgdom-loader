@@ -6,7 +6,7 @@
     "react",
     "svg"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "homepage": "https://github.com/zenwalker/react-svgdom-loader",
   "bugs": "https://github.com/zenwalker/react-svgdom-loader/issues",
@@ -18,5 +18,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maxim Poletaev <zenwalker2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  }
 }

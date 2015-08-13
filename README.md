@@ -35,3 +35,17 @@ export default React.createClass({
   }
 });
 ```
+
+## Query parameters
+
+### containerTag
+
+default: `span`
+
+### className
+
+default: `svg-icon`
+
+## License
+
+Licensed under the MIT license.
