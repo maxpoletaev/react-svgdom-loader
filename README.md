@@ -40,7 +40,7 @@ export default React.createClass({
 
 ### containerTag
 
-default: `span`
+default: `i`
 
 ### className
 
