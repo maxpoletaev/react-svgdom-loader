@@ -11,6 +11,7 @@ function tmpl(template, data) {
 }
 
 module.exports = function(content) {
+  this.cacheable();
   var data = extend({
     html: JSON.stringify(content),
     className: 'svg-icon',
