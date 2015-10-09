@@ -25,18 +25,18 @@ loaders: [{
 Then use SVG in component:
 
 ```js
-import MyIcon from '../icons/my-icon.svg';
-import React  from 'react';
+import myIcon from '../icons/my-icon.svg';
+import React, { Component }  from 'react';
 
-export default React.createClass({
+class MyComponent extends Component {
   render() {
     return (
-      <div class="my-component">
-        Here is icon: {MyIcon}
+      <div className="my-component">
+        Here is icon: {myIcon}
       </div>
     );
   }
-});
+}
 ```
 
 ## Query parameters
