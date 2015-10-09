@@ -3,7 +3,6 @@
 [build]: https://travis-ci.org/zenwalker/react-svgdom-loader.svg?branch=master
 [build-link]: https://travis-ci.org/zenwalker/react-svgdom-loader
 
-
 > Import SVG icons as ReactDOM element!
 
 ## Installation
