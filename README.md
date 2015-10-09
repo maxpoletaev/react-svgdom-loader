@@ -1,6 +1,6 @@
 # react-svgdom-loader [![][build]][build-link]
 
-[build]: https://travis-ci.org/zenwalker/react-svgdom-loader.png?branch=master
+[build]: https://travis-ci.org/zenwalker/react-svgdom-loader.svg?branch=master
 [build-link]: https://travis-ci.org/zenwalker/react-svgdom-loader
 
 
