@@ -34,7 +34,7 @@ describe('tools', function() {
     };
 
     var strAttrs = [
-      "'xmlns:xlink': 'http://www.w3.org/1999/xlink'",
+      "'xmlnsXlink': 'http://www.w3.org/1999/xlink'",
       "'viewBox': '0 0 19 21.2'",
       "'x': '0px'", "'y': '0px'",
       "'version': '1.1'",
