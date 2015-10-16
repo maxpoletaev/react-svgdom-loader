@@ -43,10 +43,4 @@ describe('tools', function() {
 
     assert.equal(tools.renderAttrs(objAttrs), strAttrs);
   });
-
-  it('parseContent()', function() {
-    var content = '<g>I\'am content</g>';
-    var svg = '<svg viewBox="0 0 19 21.2" enable-background="new 0 0 19 21.2">' + content + '</svg>';
-    assert.equal(tools.parseContent(svg).content, content);
-  });
 });

@@ -45,6 +45,12 @@ class MyComponent extends Component {
 
 default: `svg-icon`
 
+### ignoreAttrs
+
+Comma-separated list of attributes for ignoring.
+
+default: `id`
+
 ## License
 
 Licensed under the MIT license.
